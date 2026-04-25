@@ -7,7 +7,7 @@
 <p>SuperMarket dashboard has Supermarket orders, returns, Customer, Products and Region data.</p>
 <p>The dashboard leads with a Total Sales KPI, providing an immediate snapshot of the organization's top-line revenue.</p>
 <p></p>To provided targeted analysis, the report features a Dynamic Regional Multi-Filter which allows users to check the performance across specific regions.</p>
-<p>Key geographic insights include:</p>
+<h5>Key geographic insights include:</h5>
 <p>
 Top 5 High-Performing Countries highlighting the leading markets by sales volume.</p>
 <p>Users can utilize Drill-Down functionality to explore sub-regional data or Drill-Through to access underlying transaction-level details for any specific country.</p>
