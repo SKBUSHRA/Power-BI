@@ -16,3 +16,12 @@ Top 5 High-Performing Countries highlighting the leading markets by sales volume
 <p>Products report displays the heat map with Top 10 selling products and the total profit KPI.</p>
 <p>Shipping report displays the shipping and returns report. Displays variable returns and shipping with different measures.
 <p>--------------------------------------------------------------------------------------------------------------------------</p>
+<h3>SuperStore Sales Data</h3>
+<p>Superstore Sales Data has Sales, Profit and Category details reports.</p>
+<p>Sales report displays Sales data on a geographical chart with conditional formatting applied by region and sum of sales KPI. Top 5 sales and Region sales. Interactions are switched off for Top 5 sales with all the other charts.</p>
+<p>Profit report is dark-themed which displays Top and Bottom 2 profited cities with Multi region filter card. </p>
+<p>Category details report Displays the Discount and profits with respect to Categories and Sub-categories. The sub-categories are grouped to display profits.</p>
+<p>--------------------------------------------------------------------------------------------------------------------------</p>
+<h3>Tasty Bytes Dashboard</h3>
+<p>Tasty Bytes is a food truck business data. In Snowflake Data Profiles were created to set database schema, roles, permissions to the roles, creation of Dynamic Tables, Data Masking, Row-level Security and warehouse context.</p>
+<p>In the report, Region and Year filters are used. The Sales, Profit data is displayed with various features like drilling and Filtering with customer details masked in Order Details report.</p>
