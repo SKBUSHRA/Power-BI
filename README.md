@@ -1,9 +1,9 @@
-<h5>Staffing Data Dashboard</h5>
+<h3>Staffing Data Dashboard</h3>
 <p>Staffing Dashboard has HR staffing data. It has staffing and its performance reports.</p>
 <p>In staffing the Report shows count of Staff by age and department, Average Salary by department, Gender distribution in each department.</p>
 <p>In Staff performance report, it displays the score card which displays the Sum of Salaries between two countries, Top performers in each country and the year wise growth of the firm.
 <p>--------------------------------------------------------------------------------------------------------------------------</p>
-<h5>SuperMarket Sales Dashboard</h5>
+<h3>SuperMarket Sales Dashboard</h3>
 <p>SuperMarket dashboard has Supermarket orders, returns, Customer, Products and Region data.</p>
 <p>The dashboard leads with a Total Sales KPI, providing an immediate snapshot of the organization's top-line revenue.</p>
 <p></p>To provided targeted analysis, the report features a Dynamic Regional Multi-Filter which allows users to check the performance across specific regions.</p>
